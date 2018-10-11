@@ -1,0 +1,36 @@
+{   
+   "FirstName" : "Kamlesh",   
+   "LastName" : "Kumar",   
+   "Company" : "Microsoft",  
+   "department" : "Interface Technology",  
+   "Work" : [   
+      {   
+         "skil" : "BizTalk Server",   
+         "Mark" : 95  
+      },   
+      {   
+         "skil" : "Logic Apps",   
+         "Mark" : 95  
+      },  
+      {   
+         "skil" : "Azure",   
+         "Mark" : 85  
+      },  
+      {   
+         "skil" : "OMS",   
+         "Mark" : 80  
+      },  
+      {   
+         "skil" : "Share Points",   
+         "Mark" : 70  
+      },  
+      {   
+         "skil" : "C Sharp",   
+         "Mark" : 95  
+      },  
+      {   
+         "skil" : "SQL Server",   
+         "Mark" : 95  
+      }  
+   ]  
+} 
